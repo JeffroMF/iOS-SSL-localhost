@@ -1,5 +1,6 @@
 # How to connect to localhost with a self signed certificate
 
+This one pops ina while, and despite being quite easy to do. This howto will generate the certificate and install it on your iOS simulators.
 
 # Create a Self-Signed SSL Certificate
 
